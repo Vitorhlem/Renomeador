@@ -1,3 +1,5 @@
+**© 2025 Vitor Hugo Lemes. Todos os direitos reservados.**
+
 # Renomeador de Arquivos Pro 📁✨
 
 Bem-vindo ao Renomeador de Arquivos Pro! Esta é uma aplicação de desktop desenvolvida em Python com Tkinter/TTK, projetada para ajudá-lo a renomear arquivos em lote de forma eficiente e organizada. Ideal para organizar fotos, documentos de projetos, materiais de marketing e muito mais!
@@ -96,4 +98,6 @@ Bem-vindo ao Renomeador de Arquivos Pro! Esta é uma aplicação de desktop dese
 Se você deseja criar um arquivo executável (`.exe`) para distribuir sua aplicação, pode usar o PyInstaller. Após instalá-lo (`pip install pyinstaller`), navegue até a pasta do seu script no terminal e execute:
 
 ```bash
-pyinstaller --onefile --windowed --icon="app_icon.ico" "seu_script.py"
+pyinstaller --onefile --windowed --icon="app_icon.ico" "seu_script.py"´´´
+
+**© 2025 Vitor Hugo Lemes. Todos os direitos reservados.**
